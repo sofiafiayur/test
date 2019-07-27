@@ -23,6 +23,7 @@
     "mysql": "^2.17.1",
     "mysql-model": "0.0.3",
     "req-flash": "0.0.3",
+    "sequelize": "^5.10.3",
     "serverless": "^1.48.4",
     "tslint": "^5.18.0",
     "typescript": "^3.5.3"
