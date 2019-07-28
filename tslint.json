@@ -12,7 +12,7 @@
         "interface-name": false,
         "jsdoc-format": true,
         "label-position": true,
-        "max-line-length": [true, 140],
+        "max-line-length": [true, 160],
         "member-ordering": [true, "variables-before-functions"],
         "no-any": false,
         "no-arg": true,
