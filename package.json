@@ -24,7 +24,7 @@
     "express-fileupload": "^1.1.5",
     "mysql": "^2.17.1",
     "req-flash": "0.0.3",
-    "serverless": "^1.48.4",
+    "serverless": "^3.25.1",
     "tslint": "^5.18.0",
     "typescript": "^3.5.3"
   },
